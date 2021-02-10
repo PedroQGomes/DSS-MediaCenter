@@ -11,7 +11,7 @@ Na primeira fase o foco é conhecer melhor o domínio do problema e para isso fo
 
 * Um Modelo de Domínio com as entidades relevantes
 * Um Modelo de Use Case com as funcionalidades propostas
-* A especificação dos Use Case
+* A especificação dos Use Cases
 * Um protótipo da interface proposta
 
 ### Fase 2 - Modelação conceptual da solução
